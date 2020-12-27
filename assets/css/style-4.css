@@ -1,0 +1,85 @@
+
+body, html, .homepage-hero-area-4, .single-slide-bg {
+    height: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+}
+
+
+
+.padding-top-50 {
+    padding-top: 80px;
+}
+
+a.inline-box {
+    color: #06d59f;
+    display: inline-block;
+    padding-top: 8px;
+}
+
+body {
+    font-weight: 300;
+    line-height: 1.6;
+}
+.boxed-btn, input[type=submit], button[type=submit] {
+    background-color: #06d6a0;
+  
+}
+
+/* ==================
+slide-bg CSS
+================ */
+.single-slide-bg {
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+.single-slide-warrper {
+    display: table-cell;
+    vertical-align: center;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.single-slide-warrper h2 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.website-makes-item {
+    margin-top: 44px;
+}
+
+.website-makes-item input {
+    background-color: #073b4c;
+    border-color: #073b4c;
+}
+
+.website-makes-item input[type=submit], .website-makes-item button[type=submit] {
+    background-color: #06d59f;
+}
+
+
+/* ==================
+services CSS
+================ */
+ .single-service-box:hover {
+    border-color: #06d6a0;
+    cursor: pointer;
+}
+.single-service-box:hover a.service-readmore-btn, .single-service-box:hover h3, .single-service-box:hover .service-icon {
+    color: #06d6a0;
+}
+.main-menu li a:hover, .footer-area.theme-4.footer-area.theme-4 a:hover, .footer-area ul.social-links li a:hover {
+    color: #06d6a0;
+}

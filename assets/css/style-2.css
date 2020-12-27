@@ -1,0 +1,71 @@
+
+/* ==================
+Hero-area CSS
+================ */
+
+.hero-area{
+    background-image: url('../img/hero-area-2.png');
+    background-color: #3493f5;
+}
+
+.hero-area {
+    color: #fff;
+    background-position: center;
+    background-size: cover;
+    line-height: 1.8;
+    padding: 80px 0;
+  }
+  
+.hero-area h1 {
+    color: #fff;
+    font-size: 45px;
+    margin-top: 99px;
+ }
+
+
+/* ==================
+All hover CSS
+================ */
+.main-menu li a:hover {
+    color: #19abfa;
+}
+
+.single-pricing-box:hover .pricing-heading {
+    border-color: #6a9bea;
+}
+
+
+/* ==================
+Btn+Icons CSS
+================ */
+.boxed-btn{
+    background: #06d6a0;
+}
+.service-icons {
+    color: #25a1f9;
+    margin-bottom: 7px;
+  
+}
+
+/* ==================
+owl-carousel CSS
+================ */
+.owl-carousel button.owl-dot.active {
+    background-color: #25a1f9;
+}
+
+/* ==================
+Footer-area CSS
+================ */
+.footer-area, .footer-area a:hover {
+    color: #06d6a0;
+}
+.footer-area ul.social-links li a:hover{
+    color: #06d6a0;
+  }
+
+  
+ul.social-links {
+    display: grid;
+ }
+
